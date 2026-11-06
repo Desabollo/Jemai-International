@@ -1,0 +1,3 @@
+﻿Journal Date,Journal#,Reference#,Notes,Currency,Exchange Rate,Account,Account Code,Debit,Credit,Description,Contact,Project
+01-Aug-2026,JE-202608-001,TXN-0001,Example row - delete before use,NGN,1,Access Bank,1021,10000.00,,Receipt to bank,,
+01-Aug-2026,JE-202608-001,TXN-0001,Example row - delete before use,NGN,1,Interior Design / Fit-out Revenue,4012,,10000.00,Client receipt,,

@@ -1,0 +1,303 @@
+﻿Account ID,Account Name,Account Code,Description,Account Type,Mileage Rate,Mileage Unit,IsMileage,Account # ,Account Status,Currency,Parent Account
+420484000000107072,Assets,1000,Main asset class header for Zoho Books.,Other Current Asset,0.000,,false,,Active,NGN,
+420484000000000358,Cash on Hand,1011,Record funds received by your company yet to be deposited in a bank as undeposited funds and group them as a current asset in your balance sheet.,Cash,0.000,,false,,Active,NGN,
+420484000000000361,Petty Cash,1012,It is a small amount of cash that is used to pay your minor or casual expenses rather than writing a check.,Cash,0.000,,false,,Active,NGN,
+420484000000107086,Site Cash Float,1013,Cash advances held for project site purchases and site runnings.,Cash,0.000,,false,,Active,NGN,
+420484000000107091,Bank Accounts,1020,Parent for all bank accounts.,Bank,0.000,,false,,Active,NGN,
+420484000000112360,Access Bank,1021,Access Bank Account,Bank,0.000,,false,1854793470,Active,NGN,
+,Bank Overdraft - Access Bank,1029,Overdraft balance on Access Bank A/C 1854793470. Actual credit balances are presented separately from operating cash so the bank position is never netted.,Bank Overdraft,0.000,,false,,Active,NGN,
+420484000000000364,Accounts Receivable-Control,1040,The money that customers owe you becomes the accounts receivable. A good example of this is a payment expected from an invoice sent to your customer.,Accounts Receivable,0.000,,false,,Active,NGN,
+420484000000107114,WHT Receivable / Tax Credit Notes,1043,Withholding tax credits suffered on customer payments and supported by credit notes.,Other Current Asset,0.000,,false,,Inactive,NGN,
+420484000000035001,Staff Advances Receivable,1044,Money paid out to an employee in advance can be tracked here till it's repaid or shown to be spent for company purposes.,Other Current Asset,0.000,,false,,Active,NGN,
+420484000000107122,Director Current Account Receivable,1045,Amounts recoverable from the director/shareholder after management confirmation.,Other Current Asset,0.000,,false,,Active,NGN,
+420484000000107126,Other Receivables,1046,Other non-trade receivables.,Other Current Asset,0.000,,false,,Active,NGN,
+,Related Party Receivable - Family & Associates,1047,"Amounts paid to the MD's family and associates for company purposes, pending settlement or supporting documents.",Other Current Asset,0.000,,false,,Active,NGN,
+420484000000107146,Project Materials Inventory,1061,Materials bought for client projects and not yet consumed.,Stock,0.000,,false,,Active,NGN,
+420484000000107149,Furniture Materials Inventory,1062,"Wood, boards, fabrics and other furniture production materials.",Stock,0.000,,false,,Active,NGN,
+420484000000107152,Finished Furniture / Interior Items,1063,Finished furniture and decor items awaiting delivery.,Stock,0.000,,false,,Active,NGN,
+420484000000107155,Work-in-Progress - Design & Fit-out Projects,1064,Project costs capitalised as WIP pending completion or billing.,Stock,0.000,,false,,Active,NGN,
+420484000000034001,Site Consumables Inventory,1065,An account which tracks the value of goods in your inventory.,Stock,0.000,,false,,Active,NGN,
+420484000000107161,Inventory Adjustments,1066,"Inventory valuation differences, stock gains/losses and reclassifications.",Stock,0.000,,false,,Active,NGN,
+420484000000000370,Tax Recoverable,1080,"Any tax which is paid in advance is recorded into the advance tax account. This advance tax payment could be a quarterly, half yearly or yearly payment.",Other Current Asset,0.000,,false,,Active,NGN,
+420484000000000367,Furniture & Fittings,1091,Purchases of furniture and equipment for your office that can be used for a long period of time usually exceeding one year can be tracked with this account.,Fixed Asset,0.000,,false,,Active,NGN,
+420484000000107212,Office Equipment,1092,Office equipment capitalised by the company.,Fixed Asset,0.000,,false,,Active,NGN,
+420484000000107216,Computers & IT Equipment,1093,"Computers, printers, phones and related IT devices.",Fixed Asset,0.000,,false,,Active,NGN,
+420484000000107220,Design / Studio Equipment,1094,"Design studio, measuring, photography and rendering equipment.",Fixed Asset,0.000,,false,,Active,NGN,
+420484000000107224,Tools & Site Equipment,1095,Company-owned project tools and site equipment.,Fixed Asset,0.000,,false,,Active,NGN,
+420484000000107228,Motor Vehicles,1096,Motor vehicles owned by the company.,Fixed Asset,0.000,,false,,Active,NGN,
+420484000000107232,Leasehold Improvements,1097,"Capital improvements to rented office, studio or workshop premises.",Fixed Asset,0.000,,false,,Active,NGN,
+420484000000107236,Capital Work in Progress,1098,Capital projects and asset construction costs not yet commissioned.,Fixed Asset,0.000,,false,,Active,NGN,
+420484000000107240,Accumulated Depreciation,1100,Contra-asset parent for accumulated depreciation.,Fixed Asset,0.000,,false,,Active,NGN,
+420484000000107272,Website / Web Design,1121,Website design and development costs capitalised where appropriate.,Other Asset,0.000,,false,,Active,NGN,
+420484000000107276,Design Software Licences,1122,Perpetual design software licences capitalised where appropriate.,Other Asset,0.000,,false,,Active,NGN,
+420484000000107280,Branding & Digital Assets,1123,Branding assets capitalised where recognition criteria are met.,Other Asset,0.000,,false,,Active,NGN,
+420484000000107284,Accumulated Amortisation - Intangibles,1129,Accumulated amortisation on intangible assets.,Other Asset,0.000,,false,,Active,NGN,
+420484000000107288,Long-term Deposits,1131,Refundable long-term deposits.,Other Asset,0.000,,false,,Active,NGN,
+420484000000107292,Investment / Mutual Funds - Company,1132,Company investments only; director personal investments should be reclassified.,Other Asset,0.000,,false,,Active,NGN,
+,Right-of-Use Assets (IFRS 16),1180,"Capitalised right-of-use asset for the Ogba office lease and any equipment leases, net of amortisation.",Other Asset,0.000,,false,,Active,NGN,
+,Deferred Tax Asset,1190,"Deferred tax asset arising on deductible temporary differences and unused capital allowances, recognised only where future taxable profit is probable.",Other Asset,0.000,,false,,Active,NGN,
+420484000000107308,Liabilities,2000,Main liabilities class header for Zoho Books.,Other Current Liability,0.000,,false,,Active,NGN,
+420484000000000373,Accounts Payable-Control,2010,"This is an account of all the money which you owe to others like a pending bill payment to a vendor,etc.",Accounts Payable,0.000,,false,,Active,NGN,
+,Share Application Money Pending Allotment,2057,Money received from a subscriber before the shares are allotted and the CAC return is filed.,Equity,0.000,,false,,Active,NGN,
+420484000000035003,Staff Reimbursements Payable,2063,This account can be used to track the reimbursements that are due to be paid out to employees.,Other Current Liability,0.000,,false,,Active,NGN,
+420484000000005001,Refunds Payable to Customers,2064,"A liability account that reports amounts received in advance of providing goods or services. When the goods or services are provided, this account balance is decreased and a revenue account is increased.",Other Current Liability,0.000,,false,,Active,NGN,
+420484000000003001,Opening Balance Adjustments,2090,This account will hold the difference in the debits and credits entered during the opening balance.,Other Current Liability,0.000,,false,,Active,NGN,
+,Deferred Tax Liability,2096,Deferred tax liability on taxable temporary differences (accelerated capital allowances over accounting depreciation).,Non Current Liability,0.000,,false,,Active,NGN,
+,Long-term Borrowings,2097,Loan principal repayable more than 12 months after the reporting date.,Non Current Liability,0.000,,false,,Active,NGN,
+,Lease Liabilities - IFRS 16,2098,Present value of remaining lease payments (current portion to be reclassified to 2052 at each year end).,Non Current Liability,0.000,,false,,Active,NGN,
+420484000000045001,Suspense - Liability Review,2999,"This adjustment account tracks the transfers between different dimensions like tags, branches.",Other Liability,0.000,,false,,Active,NGN,
+420484000000107468,Equity,3000,Main equity class header.,Equity,0.000,,false,,Active,NGN,
+420484000000012001,Director Drawings,3050,The money withdrawn from a business by its owner can be tracked with this account.,Equity,0.000,,false,,Active,NGN,
+420484000000107483,Director Drawings - Esther Akin-Ajayi,3051,Drawings and shareholder distributions to the sole director/shareholder.,Equity,0.000,,false,,Active,NGN,
+420484000000000385,Opening Balance Offset,3080,This is an account where you can record the balance from your previous years earning or the amount set aside for some activities. It is like a buffer account for your funds.,Equity,0.000,,false,,Active,NGN,
+420484000000107504,Income / Sales,4000,Main sales and revenue class.,Income,0.000,,false,,Active,NGN,
+420484000000107537,Project Tranche Revenue,4020,Revenue received in tranches for ongoing projects.,Income,0.000,,false,,Inactive,NGN,
+420484000000107540,Corporate Client Revenue,4021,Revenue from corporate client projects.,Income,0.000,,false,,Inactive,NGN,
+420484000000107543,Residential Client Revenue,4022,Revenue from individual/residential clients.,Income,0.000,,false,,Inactive,NGN,
+420484000000107546,Retention Release Revenue,4023,Revenue recognised when client retention is released.,Income,0.000,,false,,Inactive,NGN,
+420484000000000397,Rush / Expedited Service Fees,4033,Any late fee income is recorded into the late fee income account. The late fee is levied when the payment for an invoice is not received by the due date.,Income,0.000,,false,,Active,NGN,
+420484000000000391,Contract Adjustments,4040,A general category of account where you can record any income which cannot be recorded into any other category.,Income,0.000,,false,,Active,NGN,
+420484000000000406,Sales Discounts,4041,Any reduction on your selling price as a discount can be recorded into the discount account.,Income,0.000,,false,,Active,NGN,
+420484000000107570,Customer Refunds / Credit Notes,4042,Customer/project refunds and credit notes.,Income,0.000,,false,,Active,NGN,
+420484000000000394,Interest Income,4043,A percentage of your balances and deposits are given as interest to you by your banks and financial institutions. This interest is recorded into the interest income account.,Income,0.000,,false,,Active,NGN,
+420484000000010001,Other Charges,4900,Miscellaneous charges like adjustments made to the invoice can be recorded in this account.,Income,0.000,,false,,Active,NGN,
+420484000000107576,Supplier Refunds,4901,Refunds received from suppliers.,Other Income,0.000,,false,,Active,NGN,
+420484000000107579,Miscellaneous Income,4903,Other non-routine income.,Other Income,0.000,,false,,Active,NGN,
+420484000000107585,Cost of Sales,5000,Main direct project cost class.,Cost Of Goods Sold,0.000,,false,,Active,NGN,
+420484000000072001,Purchase Discounts,5071,Tracks any reduction that your vendor offers on your purchases. Some vendors also provide them to encourage quick payment settlement.,Expense,0.000,,false,,Active,NGN,
+420484000000107749,Expenses,6000,Main operating expenses class.,Expense,0.000,,false,,Active,NGN,
+420484000000000448,Business Entertainment,6611,Expenses on food and entertainment are recorded into this account.,Expense,0.000,,false,,Inactive,NGN,
+420484000000000415,Exchange Gain or Loss,7023,Changing the conversion rate can result in a gain or a loss. You can record this into the exchange gain or loss account.,Other Expense,0.000,,false,,Active,NGN,
+420484000000107096,Sales Collection Clearing,1030,Clearing accounts for receipts before allocation to customer,Other Current Asset,0.000,,false,,Active,NGN,Assets
+420484000000107108,Trade Receivables - Project Clients,1041,"Amounts receivable from interior, architecture, furniture and project clients.",Accounts Receivable,0.000,,false,,Active,NGN,Accounts Receivable-Control
+420484000000107111,Retention Receivables,1042,Retention amounts due from clients after project completion or defects period.,Accounts Receivable,0.000,,false,,Active,NGN,Accounts Receivable-Control
+420484000000107130,Contract Assets,1050,Contract assets where work is performed but not yet invoiced.,Other Current Asset,0.000,,false,,Active,NGN,Assets
+420484000000107164,Prepayments & Advances,1070,"Prepayments, deposits and advances.",Other Current Asset,0.000,,false,,Active,NGN,Assets
+420484000000107192,VAT Input Receivable,1081,Input VAT receivable or offset against output VAT.,Other Current Asset,0.000,,false,,Active,NGN,Tax Recoverable
+420484000000107196,WHT Credit Receivable,1082,WHT credits received from corporate customers for use against CIT.,Other Current Asset,0.000,,false,,Active,NGN,Tax Recoverable
+420484000000107200,CIT Overpayment Receivable,1083,Company income tax overpayment recoverable or credit carry-forward.,Other Current Asset,0.000,,false,,Active,NGN,Tax Recoverable
+420484000000107204,PAYE Recoverable / Staff Tax Receivable,1084,Recoverable staff tax deductions or payroll tax adjustments.,Other Current Asset,0.000,,false,,Active,NGN,Tax Recoverable
+,Input VAT - Bank Charges & Fees,1086,"7.5% VAT charged by Access Bank on commissions, SMS alerts and maintenance fees - recoverable once the company is VAT-registered.",Other Current Asset,0.000,,false,,Active,NGN,Tax Recoverable
+420484000000107244,Accumulated Depreciation - Furniture & Fittings,1101,Accumulated depreciation on furniture and fittings.,Fixed Asset,0.000,,false,,Active,NGN,Accumulated Depreciation
+420484000000107248,Accumulated Depreciation - Office Equipment,1102,Accumulated depreciation on office equipment.,Fixed Asset,0.000,,false,,Active,NGN,Accumulated Depreciation
+420484000000107252,Accumulated Depreciation - Computers & IT Equipment,1103,Accumulated depreciation on computers and IT equipment.,Fixed Asset,0.000,,false,,Active,NGN,Accumulated Depreciation
+420484000000107256,Accumulated Depreciation - Design / Studio Equipment,1104,Accumulated depreciation on design/studio equipment.,Fixed Asset,0.000,,false,,Active,NGN,Accumulated Depreciation
+420484000000107260,Accumulated Depreciation - Tools & Site Equipment,1105,Accumulated depreciation on tools and site equipment.,Fixed Asset,0.000,,false,,Active,NGN,Accumulated Depreciation
+420484000000107264,Accumulated Depreciation - Motor Vehicles,1106,Accumulated depreciation on motor vehicles.,Fixed Asset,0.000,,false,,Active,NGN,Accumulated Depreciation
+420484000000107268,Accumulated Depreciation - Leasehold Improvements,1107,Accumulated depreciation on leasehold improvements.,Fixed Asset,0.000,,false,,Active,NGN,Accumulated Depreciation
+420484000000107296,Suspense Assets,1990,Temporary asset suspense accounts pending review.,Other Current Asset,0.000,,false,,Active,NGN,Assets
+420484000000107312,Trade Payables - Suppliers,2011,Amounts payable to suppliers of materials and services.,Accounts Payable,0.000,,false,,Active,NGN,Accounts Payable-Control
+420484000000107315,Subcontractor Payables,2012,Amounts payable to subcontractors and artisans.,Accounts Payable,0.000,,false,,Active,NGN,Accounts Payable-Control
+420484000000107318,Materials Supplier Payables,2013,Amounts payable to materials suppliers.,Accounts Payable,0.000,,false,,Active,NGN,Accounts Payable-Control
+420484000000107321,Project Creditors,2014,Project-related creditors and unpaid site obligations.,Accounts Payable,0.000,,false,,Active,NGN,Accounts Payable-Control
+420484000000107356,Retentions Payable to Subcontractors,2015,Retentions held from subcontractor invoices.,Other Current Liability,0.000,,false,,Active,NGN,Accounts Payable-Control
+420484000000107324,Accruals,2020,Accrued expenses not yet billed or paid.,Other Current Liability,0.000,,false,,Active,NGN,Liabilities
+420484000000107344,Customer / Project Deposits,2030,Customer advances and contract liabilities.,Other Current Liability,0.000,,false,,Active,NGN,Liabilities
+420484000000107360,Taxes Payable,2040,Statutory taxes payable.,Other Current Liability,0.000,,false,,Active,NGN,Liabilities
+420484000000107392,Loans and Borrowings,2050,Borrowings and financing liabilities.,Other Current Liability,0.000,,false,,Active,NGN,Liabilities
+420484000000107412,Current Account / Clearing Payables,2060,"Related party, staff and refund clearing accounts.",Other Current Liability,0.000,,false,,Active,NGN,Liabilities
+420484000000107432,Payroll Liabilities,2070,Payroll liability accounts.,Other Current Liability,0.000,,false,,Active,NGN,Liabilities
+420484000000107448,Other Current Liabilities,2080,Other current liabilities.,Other Current Liability,0.000,,false,,Active,NGN,Liabilities
+420484000000107471,Share Capital,3010,Parent for issued share capital.,Equity,0.000,,false,,Active,NGN,Equity
+420484000000107477,Share Premium,3020,"Share premium, if applicable.",Equity,0.000,,false,,Active,NGN,Equity
+420484000000107486,Director Personal Investment / Drawings,3052,Transfers such as personal investment accounts pending management confirmation.,Equity,0.000,,false,,Inactive,NGN,Director Drawings
+420484000000000382,Owner's Equity,3060,The owners rights to the assets of a company can be quantified in the owner''s equity account.,Equity,0.000,,false,,Active,NGN,Equity
+420484000000107495,Reserves,3070,Capital and other reserves.,Equity,0.000,,false,,Active,NGN,Equity
+420484000000000379,Retained Earnings,3090,The earnings of your company which are not distributed among the share holders is accounted as retained earnings.,Equity,0.000,,false,,Active,NGN,Equity
+420484000000107501,Opening Balance Equity,3999,System account for opening balance differences during migration only.,Equity,0.000,,false,,Active,NGN,Equity
+420484000000000388,Art Gallery Sales,4010,The income from the sales in your business is recorded under the sales account.,Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107510,Architectural Design Revenue,4011,Revenue from architectural design services.,Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107513,Interior Design / Fit-out Revenue,4012,"Revenue from interior design, furnishing and fit-out projects.",Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107516,Furniture Production & Supply Revenue,4013,"Revenue from furniture production, supply and installation.",Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107519,Visual Art / Decor Sales,4014,"Revenue from visual art, decor, paintings, installations and related items.",Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107522,Space Planning & Design Consultation Revenue,4015,Revenue from space planning and design consultation.,Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107525,Project Management Fees,4016,Revenue from managing client projects.,Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107528,3D Rendering / Visualisation Revenue,4017,"Revenue from 3D rendering, visualization and presentation services.",Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107531,Shortlet / Property Interior Project Revenue,4018,Revenue from shortlet/property interior design projects.,Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107534,Installation & Site Supervision Fees,4019,Fees for installation and site supervision.,Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000014001,Shipping Charges Billed,4024,Shipping charges made to the invoice will be recorded in this account.,Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107549,Other Operating Revenue,4030,Other operating revenue accounts.,Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107582,Revenue Suspense / Unknown Payer,4999,Temporary revenue account pending customer/project identification.,Income,0.000,,false,,Active,NGN,Income / Sales
+420484000000107589,Direct Materials,5010,Materials consumed on client projects.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Cost of Sales
+420484000000107629,Direct Subcontractor Costs,5020,Direct labour and subcontractor costs.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Cost of Sales
+420484000000107669,Site Operations Costs,5030,Project site operational costs.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Cost of Sales
+420484000000107701,Project Design Delivery Costs,5040,Direct design delivery expenses.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Cost of Sales
+420484000000107721,Inventory / WIP Adjustments,5050,Inventory and WIP movement accounts.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Cost of Sales
+420484000000107737,Warranty / Rectification Costs,5060,Direct post-completion rectification costs.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Cost of Sales
+420484000000034003,Cost of Sales - Telephone & Internet,5062,An expense account for telephone and internet costs directly matched to revenue,Cost Of Goods Sold,0.000,,false,,Active,NGN,Cost of Sales
+420484000000107745,Cost of Sales - Unclassified Project Costs,5099,Temporary account for direct project costs pending detailed classification.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Cost of Sales
+420484000000107753,Staff Costs,6100,Employee and people costs.,Expense,0.000,,false,,Active,NGN,Expenses
+420484000000107789,Admin & Office Expenses,6200,General administrative and office expenses.,Expense,0.000,,false,,Active,NGN,Expenses
+420484000000107853,Selling & Marketing Expenses,6300,"Branding, advertising and sales expenses.",Expense,0.000,,false,,Active,NGN,Expenses
+420484000000107885,Professional & Regulatory Expenses,6400,Professional services and statutory compliance costs.,Expense,0.000,,false,,Active,NGN,Expenses
+420484000000107945,General Operating Expenses,6600,General operating expenses.,Expense,0.000,,false,,Active,NGN,Expenses
+420484000000107977,Tax Expenses,6700,Tax expense accounts.,Expense,0.000,,false,,Active,NGN,Expenses
+420484000000107997,Depreciation & Amortisation,6800,Depreciation and amortisation expense.,Expense,0.000,,false,,Active,NGN,Expenses
+420484000000108033,Finance Costs,6900,"Bank charges, interest and finance costs.",Expense,0.000,,false,,Active,NGN,Expenses
+420484000000108057,Other Costs / Suspense,7000,Suspense and other review accounts.,Expense,0.000,,false,,Active,NGN,Expenses
+420484000000108073,Bad Debt / Impairment,7020,Expected credit loss and bad debt expenses.,Expense,0.000,,false,,Active,NGN,Expenses
+420484000000107100,POS/Card Settlement Clearing,1032,Clearing account for POS/card settlements before bank receipt.,Other Current Asset,0.000,,false,,Active,NGN,Sales Collection Clearing
+420484000000107104,Payment Gateway Clearing,1033,Clearing account for Paystack or other payment gateway collections.,Other Current Asset,0.000,,false,,Active,NGN,Sales Collection Clearing
+,Mobile Money / Wallet Clearing,1034,Settlement clearing for OPay / Moniepoint / PalmPay / mobile wallet collections before credit to the bank account.,Other Current Asset,0.000,,false,,Active,NGN,Sales Collection Clearing
+,Interbank Transfer Clearing,1035,Contra account for funds in transit between the company's own bank / wallet accounts and for transfers reversed or returned by the beneficiary bank.,Other Current Asset,0.000,,false,,Active,NGN,Sales Collection Clearing
+420484000000107134,Project Work Certified Not Yet Invoiced,1051,Revenue for certified work done but not yet billed.,Other Current Asset,0.000,,false,,Active,NGN,Contract Assets
+420484000000107138,Contract Asset - Interior/Fit-out Projects,1052,Contract asset on interior decoration and fit-out projects.,Other Current Asset,0.000,,false,,Active,NGN,Contract Assets
+420484000000107142,Contract Asset - Furniture Supply Projects,1053,Contract asset on furniture production and supply projects.,Other Current Asset,0.000,,false,,Active,NGN,Contract Assets
+420484000000107168,Rent Prepayment,1071,Rent prepaid for office/studio premises.,Other Current Asset,0.000,,false,,Active,NGN,Prepayments & Advances
+420484000000107172,Supplier / Materials Advances,1072,Advances paid to suppliers for project materials.,Other Current Asset,0.000,,false,,Active,NGN,Prepayments & Advances
+420484000000107176,Project Site Advances,1073,Cash or transfers advanced for site runnings pending retirement.,Other Current Asset,0.000,,false,,Active,NGN,Prepayments & Advances
+420484000000107180,Insurance Prepayment,1074,Insurance premium prepaid.,Other Current Asset,0.000,,false,,Active,NGN,Prepayments & Advances
+420484000000093009,Other Prepayments,1075,An asset account that reports amounts paid in advance while purchasing goods or services from a vendor.,Other Current Asset,0.000,,false,,Active,NGN,Prepayments & Advances
+420484000000107300,Suspense - Unclassified Bank Transactions,1991,Unclassified bank items pending management review.,Other Current Asset,0.000,,false,,Active,NGN,Suspense Assets
+420484000000107304,Suspense - Customer or Loan Review,1992,Temporary holding account where receipt could be customer revenue or loan.,Other Current Asset,0.000,,false,,Active,NGN,Suspense Assets
+420484000000107328,Accrued Project Costs,2021,Accrued project costs pending supplier invoices.,Other Current Liability,0.000,,false,,Active,NGN,Accruals
+420484000000107332,Accrued Salaries & Wages,2022,Accrued payroll obligations.,Other Current Liability,0.000,,false,,Active,NGN,Accruals
+420484000000107336,Accrued Professional Fees,2023,"Accrued legal, accounting, tax, audit and consultancy fees.",Other Current Liability,0.000,,false,,Active,NGN,Accruals
+420484000000107340,Accrued Utilities / Office Expenses,2024,Accrued office running costs.,Other Current Liability,0.000,,false,,Active,NGN,Accruals
+420484000000107348,Contract Liabilities - Project Deposits,2031,Deposits received from customers before performance obligations are satisfied.,Other Current Liability,0.000,,false,,Active,NGN,Customer / Project Deposits
+420484000000107352,Advance Billings - Design Projects,2032,"Advance billings on architecture, interior and design projects.",Other Current Liability,0.000,,false,,Active,NGN,Customer / Project Deposits
+420484000000107368,VAT Control / Net VAT Payable,2042,Net VAT payable after input-output VAT offset.,Other Current Liability,0.000,,false,,Active,NGN,Taxes Payable
+420484000000107372,Withholding Tax Payable,2043,WHT deducted from suppliers/subcontractors but not yet remitted.,Other Current Liability,0.000,,false,,Active,NGN,Taxes Payable
+420484000000107376,PAYE Payable,2044,PAYE deducted from employees but not yet remitted.,Other Current Liability,0.000,,false,,Active,NGN,Taxes Payable
+420484000000107380,Income Tax Payable (CIT),2045,Company income tax payable.,Other Current Liability,0.000,,false,,Active,NGN,Taxes Payable
+420484000000107384,Development Levy Payable,2046,Development levy payable where applicable.,Other Current Liability,0.000,,false,,Active,NGN,Taxes Payable
+420484000000107388,Other Payroll Statutory Payables,2047,"Pension, NSITF or other payroll deductions where applicable.",Other Current Liability,0.000,,false,,Active,NGN,Taxes Payable
+420484000000107396,Short-term Loan - Oreoluwa Olajide,2051,Specific short-term loan identified in FY2024 and FY2025 SOFP.,Other Current Liability,0.000,,false,,Active,NGN,Loans and Borrowings
+420484000000107400,Short-term Working Capital Loan,2052,Short-term 10-day working capital loan identified in June 2025.,Other Current Liability,0.000,,false,,Active,NGN,Loans and Borrowings
+420484000000107404,Director Loan Payable - Esther Akin-Ajayi,2053,Confirmed loans from the director/shareholder to the company.,Other Current Liability,0.000,,false,,Active,NGN,Loans and Borrowings
+420484000000107408,Related Party Loan Payable,2054,Borrowings from related parties after confirmation.,Other Current Liability,0.000,,false,,Active,NGN,Loans and Borrowings
+420484000000107416,Director Current Account Payable,2061,Amounts owed to the director/shareholder.,Other Current Liability,0.000,,false,,Active,NGN,Current Account / Clearing Payables
+420484000000107420,Related Party Payable - Family / Associates,2062,Amounts owed to related parties and family/associate counterparties.,Other Current Liability,0.000,,false,,Active,NGN,Current Account / Clearing Payables
+,Warranty / Defect Provision,2065,Provision for defect rectification on completed fit-out and furniture projects within the defects-liability period.,Other Current Liability,0.000,,false,,Active,NGN,Other Current Liabilities
+,"Provision for Claims, Fines & Penalties",2066,"Provision for regulatory penalties and contested claims (e.g. VAT non-registration penalties, late-filing penalties).",Other Current Liability,0.000,,false,,Active,NGN,Other Current Liabilities
+420484000000107436,Salaries Payable,2071,Net salaries due to employees.,Other Current Liability,0.000,,false,,Active,NGN,Payroll Liabilities
+420484000000107440,Pension Payable,2072,Pension deductions and employer contributions payable.,Other Current Liability,0.000,,false,,Active,NGN,Payroll Liabilities
+420484000000107444,Staff Tax Deductions Payable,2073,Employee tax deductions payable.,Other Current Liability,0.000,,false,,Active,NGN,Payroll Liabilities
+,ITF Contribution Payable,2074,Industrial Training Fund contribution (1% of annual payroll) due to ITF.,Other Current Liability,0.000,,false,,Active,NGN,Payroll Liabilities
+,NSITF Contribution Payable,2075,Employees' Compensation Scheme contribution (1% of payroll) due to NSITF.,Other Current Liability,0.000,,false,,Active,NGN,Payroll Liabilities
+,NHF Payable,2076,National Housing Fund deductions (2.5% of basic salary) withheld from staff and payable to FMBN.,Other Current Liability,0.000,,false,,Active,NGN,Payroll Liabilities
+420484000000107452,Deferred Income,2081,Income received but not yet earned.,Other Current Liability,0.000,,false,,Active,NGN,Other Current Liabilities
+420484000000107456,Security Deposits Received,2082,Refundable deposits received.,Other Current Liability,0.000,,false,,Active,NGN,Other Current Liabilities
+420484000000107460,Other Payables,2083,Other payable balances.,Other Current Liability,0.000,,false,,Active,NGN,Other Current Liabilities
+,Dividends Payable,2085,Dividends declared but not yet paid to shareholders.,Other Current Liability,0.000,,false,,Active,NGN,Other Current Liabilities
+420484000000107474,Ordinary Share Capital,3011,"₦1,000,000 ordinary share capital fully allotted.",Equity,0.000,,false,,Active,NGN,Share Capital
+420484000000107492,Director Equity Injections,3061,Funds contributed by the director/shareholder.,Equity,0.000,,false,,Active,NGN,Owner's Equity
+420484000000107498,Capital Reserve,3071,Capital reserve where applicable.,Equity,0.000,,false,,Active,NGN,Reserves
+,Revaluation / Fair Value Reserve,3072,"Surplus on revaluation of property, plant and equipment (IAS 16.39) or fair value of investments through OCI.",Equity,0.000,,false,,Active,NGN,Reserves
+420484000000107552,Delivery / Logistics Recharge Income,4031,Logistics cost recharge to customers.,Income,0.000,,false,,Active,NGN,Other Operating Revenue
+420484000000107555,Reimbursement Income,4032,Client reimbursement of project costs.,Income,0.000,,false,,Active,NGN,Other Operating Revenue
+420484000000107561,Variation Order Revenue,4034,Revenue from approved project variations.,Income,0.000,,false,,Active,NGN,Other Operating Revenue
+420484000000107593,"Wood, Boards & Carpentry Materials",5011,"Wood, boards, hinges, adhesives and carpentry materials.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Materials
+420484000000107597,"Fabrics, Upholstery & Soft Furnishings",5012,"Fabrics, upholstery, curtains and soft furnishing materials.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Materials
+420484000000107601,"Tiles, Cement & Building Materials",5013,"Tiles, cement and related building materials.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Materials
+420484000000107605,"Paint, Screeding & Finishing Materials",5014,"Paint, screeding and finishing materials.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Materials
+420484000000107609,Electrical Materials & Fittings,5015,Electrical works materials and fittings.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Materials
+420484000000107613,Plumbing Materials & Fixtures,5016,Plumbing fixtures and fittings.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Materials
+420484000000107617,"Glass, Windows & Aluminium",5017,"Windows, glass, aluminium and related items.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Materials
+420484000000107621,Interior Appliances & Equipment,5018,Appliances and interior equipment purchased for client projects.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Materials
+420484000000107625,Visual Art Materials,5019,"Canvas, paint, sculpture and visual art materials used for client jobs.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Materials
+420484000000107633,Carpentry & Furniture Subcontractors,5021,"Carpentry, furniture and joinery subcontract costs.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Subcontractor Costs
+420484000000107637,Tiling & Masonry Subcontractors,5022,"Tiling, masonry and related subcontract costs.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Subcontractor Costs
+420484000000107641,Electrical Works Subcontractors,5023,Electrical installation subcontract costs.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Subcontractor Costs
+420484000000107645,Plumbing Works Subcontractors,5024,Plumbing installation subcontract costs.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Subcontractor Costs
+420484000000107649,POP / Plastering & Ceiling Works,5025,"POP, plastering, ceiling and finishing subcontract costs.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Subcontractor Costs
+420484000000107653,Painting & Finishing Labour,5026,Painting and finishing labour costs.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Subcontractor Costs
+420484000000107657,Cladding / Fluted Panel Works,5027,"Cladding, fluted panel and wall finish subcontract costs.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Subcontractor Costs
+420484000000107661,Installation Labour,5028,"Direct installation labour for furniture, fittings and appliances.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Subcontractor Costs
+420484000000107665,Site Security / Temporary Labour,5029,Temporary site labour and security costs directly attributable to projects.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Direct Subcontractor Costs
+420484000000107673,Site Petty Cash,5031,Site petty cash and site runnings supported by receipts.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Site Operations Costs
+420484000000107677,Site Transport & Delivery,5032,Transport and delivery directly tied to project site purchases.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Site Operations Costs
+420484000000107681,Scaffold Rental,5033,Scaffold rental for client projects.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Site Operations Costs
+420484000000107685,Tools Rental,5034,Rental of tools/equipment for site projects.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Site Operations Costs
+420484000000107689,Generator / Fuel - Site,5035,Site generator fuel and power costs.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Site Operations Costs
+420484000000107693,White Cement / Site Consumables,5036,White cement and other site consumables.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Site Operations Costs
+420484000000107697,Project Cleaning / Waste Disposal,5037,Post-project cleaning and waste disposal costs.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Site Operations Costs
+,Project Insurance & Bonds,5038,"Contractor's all-risk insurance, performance bonds and project-specific premiums chargeable to a client contract.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Site Operations Costs
+420484000000107705,3D Rendering & Visualisation Direct Costs,5041,Outsourced rendering and visualization costs directly linked to a customer project.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Project Design Delivery Costs
+420484000000107709,Printing / Presentation Boards,5042,"Printing, boards and presentation materials for client deliverables.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Project Design Delivery Costs
+420484000000107713,Permits / Approvals for Client Projects,5043,Project permits and approvals paid on behalf of clients.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Project Design Delivery Costs
+420484000000107717,Project Procurement Fees,5044,Direct procurement and sourcing costs attributable to client projects.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Project Design Delivery Costs
+420484000000107725,Opening WIP,5051,Opening work-in-progress transferred to cost of sales.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Inventory / WIP Adjustments
+420484000000107729,Closing WIP,5052,Closing work-in-progress credited against cost of sales.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Inventory / WIP Adjustments
+420484000000107733,Inventory Write-off / Shrinkage,5053,"Inventory losses, damages and write-offs.",Cost Of Goods Sold,0.000,,false,,Active,NGN,Inventory / WIP Adjustments
+420484000000107741,Project Defect Rectification,5061,Cost of correcting project defects and warranty works.,Cost Of Goods Sold,0.000,,false,,Active,NGN,Warranty / Rectification Costs
+420484000000000445,Salaries and Employee Cost,6110,Salaries for your employees and the wages paid to workers are recorded under the salaries and wages account.,Expense,0.000,,false,,Active,NGN,Staff Costs
+420484000000107761,Staff Allowances & Bonuses,6111,"Staff allowances, bonuses and incentives.",Expense,0.000,,false,,Active,NGN,Staff Costs
+420484000000107765,Contract Staff / Intern Stipends,6112,"Allowances to interns, casuals and contract staff.",Expense,0.000,,false,,Active,NGN,Staff Costs
+420484000000107769,Staff Welfare & Meals,6113,"Staff welfare, food and meals.",Expense,0.000,,false,,Active,NGN,Staff Costs
+420484000000107773,Medical & Welfare,6114,Staff medical and welfare expenses.,Expense,0.000,,false,,Active,NGN,Staff Costs
+420484000000107777,Staff Training & Development,6115,"Training, capacity building and staff development costs.",Expense,0.000,,false,,Active,NGN,Staff Costs
+420484000000107781,Recruitment Costs,6116,Recruitment and onboarding costs.,Expense,0.000,,false,,Active,NGN,Staff Costs
+420484000000107785,Pension Expense,6117,Employer pension contributions.,Expense,0.000,,false,,Active,NGN,Staff Costs
+420484000000000430,Rent & Service Charge,6210,The rent paid for your office or any space related to your business can be recorded as a rental expense.,Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000107797,Office Utilities,6211,"Electricity, water and other utilities.",Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000000427,IT_Internet & Data,6212,"Money spent on your IT infrastructure and usage like  internet connection, purchasing computer equipment etc is recorded as an IT and Computer Expense.",Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000000421,Telephone/Communications,6213,"The expenses on your telephone, mobile and fax usage are accounted as telephone expenses.",Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000000400,Office Supplies & Stationery,6214,All expenses on purchasing office supplies like stationery are recorded into the office supplies account.,Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000000442,Printing & Photocopying,6215,Expenses incurred by the organization towards printing and stationery.,Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000000457,Repairs and Maintenance,6216,The costs involved in maintenance and repair of assets is recorded under this account.,Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000000433,Cleaning & Sanitation,6217,All your janitorial and cleaning expenses are recorded into the janitorial expenses account.,Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000107825,Insurance,6218,Insurance expense.,Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000107829,Security,6219,Security expenses.,Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000107833,Subscriptions & Software,6220,"Recurring software, cloud and subscription costs.",Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000000403,Advertising And Marketing,6310,"Your expenses on promotional, marketing and advertising activities like banners, web-adds, trade shows, etc. are recorded in advertising and marketing account.",Expense,0.000,,false,,Active,NGN,Selling & Marketing Expenses
+420484000000107861,Photography & Videography,6311,Photography and video content costs.,Expense,0.000,,false,,Active,NGN,Selling & Marketing Expenses
+420484000000107865,Branding & Graphics Design,6312,"Branding, graphics and design costs.",Expense,0.000,,false,,Active,NGN,Selling & Marketing Expenses
+420484000000107869,Social Media Promotions,6313,Paid social media ads and boosted posts.,Expense,0.000,,false,,Active,NGN,Selling & Marketing Expenses
+420484000000107873,Client Entertainment,6314,Client meetings and business entertainment.,Expense,0.000,,false,,Active,NGN,Selling & Marketing Expenses
+420484000000107877,Proposal / Pitch Expenses,6315,Proposal preparation and pitch costs.,Expense,0.000,,false,,Active,NGN,Selling & Marketing Expenses
+420484000000107881,Events & Exhibition Expenses,6316,"Exhibitions, fairs and launch events.",Expense,0.000,,false,,Active,NGN,Selling & Marketing Expenses
+,Sales Commission & Referral Fees,6317,"Commission paid to introducers, agents and referrers on converted projects.",Expense,0.000,,false,,Active,NGN,Selling & Marketing Expenses
+420484000000107889,Legal Fees,6410,Legal expenses.,Expense,0.000,,false,,Active,NGN,Professional & Regulatory Expenses
+420484000000107893,Accounting & Bookkeeping Fees,6411,Accounting and bookkeeping service fees.,Expense,0.000,,false,,Active,NGN,Professional & Regulatory Expenses
+420484000000107897,Audit Fees,6412,External audit fees.,Expense,0.000,,false,,Active,NGN,Professional & Regulatory Expenses
+420484000000107901,Tax Consultancy Fees,6413,Tax advisory and compliance consultancy fees.,Expense,0.000,,false,,Active,NGN,Professional & Regulatory Expenses
+420484000000107905,CAC Filing Fees,6414,CAC annual returns and corporate filing costs.,Expense,0.000,,false,,Active,NGN,Professional & Regulatory Expenses
+420484000000107909,Business Permits & Licences,6415,"Business permits, licences and regulatory charges.",Expense,0.000,,false,,Active,NGN,Professional & Regulatory Expenses
+420484000000107913,Professional Memberships,6416,Professional memberships and subscriptions.,Expense,0.000,,false,,Active,NGN,Professional & Regulatory Expenses
+420484000000107917,Compliance Penalties & Fines,6417,Penalties and fines to be separately tracked for tax treatment.,Expense,0.000,,false,,Active,NGN,Professional & Regulatory Expenses
+420484000000000454,Other Consultancy Fees,6418,Charges for availing the services of a consultant is recorded as a consultant expenses. The fees paid to a soft skills consultant to impart personality development training for your employees is a good example.,Expense,0.000,,false,,Active,NGN,Professional & Regulatory Expenses
+420484000000000460,License Fees,6419,Any minor expense on activities unrelated to primary business operations is recorded under the other expense account.,Expense,0.000,,false,,Active,NGN,Professional & Regulatory Expenses
+420484000000000418,Transport & Travel,6500,"Expenses on business travels like hotel bookings, flight charges, etc. are recorded as travel expenses.",Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000000436,Dispatch Postage Charges,6513,"Your expenses on ground mails, shipping and air mails can be recorded under the postage account.",Expense,0.000,,false,,Active,NGN,Admin & Office Expenses
+420484000000107949,Petty Cash & Sundry Expenses,6610,Small sundry expenses where detailed classification is not available.,Expense,0.000,,false,,Active,NGN,General Operating Expenses
+420484000000107957,Charitable Donations,6612,Donations and charitable contributions.,Expense,0.000,,false,,Active,NGN,General Operating Expenses
+420484000000107961,Customer & Project Refunds,6613,Customer refunds and project refund payments when treated as expense.,Expense,0.000,,false,,Active,NGN,General Operating Expenses
+420484000000107981,Income Tax Expense,6710,Company income tax expense.,Expense,0.000,,false,,Active,NGN,Tax Expenses
+420484000000107985,Education Tax Expense,6711,Education tax expense where applicable.,Expense,0.000,,false,,Active,NGN,Tax Expenses
+420484000000107989,VAT Expense / Irrecoverable VAT,6712,Irrecoverable VAT and VAT not claimed as input.,Expense,0.000,,false,,Active,NGN,Tax Expenses
+420484000000107993,WHT Expense - Not Recoverable,6713,WHT suffered that cannot be recovered due to missing credit note or statutory limitation.,Expense,0.000,,false,,Active,NGN,Tax Expenses
+420484000000108001,Depreciation - Furniture & Fittings,6810,Depreciation on furniture and fittings.,Expense,0.000,,false,,Active,NGN,Depreciation & Amortisation
+420484000000108005,Depreciation - Office Equipment,6811,Depreciation on office equipment.,Expense,0.000,,false,,Active,NGN,Depreciation & Amortisation
+420484000000108009,Depreciation - Computers & IT Equipment,6812,Depreciation on computers and IT equipment.,Expense,0.000,,false,,Active,NGN,Depreciation & Amortisation
+420484000000108013,Depreciation - Design / Studio Equipment,6813,Depreciation on design and studio equipment.,Expense,0.000,,false,,Active,NGN,Depreciation & Amortisation
+420484000000108017,Depreciation - Tools & Site Equipment,6814,Depreciation on tools and site equipment.,Expense,0.000,,false,,Active,NGN,Depreciation & Amortisation
+420484000000000451,Depreciation - Motor Vehicles,6815,Any depreciation in value of your assets can be captured as a depreciation expense. Depreciation on motor vehicles.,Expense,0.000,,false,,Active,NGN,Depreciation & Amortisation
+420484000000108025,Depreciation - Leasehold Improvements,6816,Depreciation on leasehold improvements.,Expense,0.000,,false,,Active,NGN,Depreciation & Amortisation
+420484000000108029,Amortisation - Website & Software,6820,"Amortisation of website, software and intangible assets.",Expense,0.000,,false,,Active,NGN,Depreciation & Amortisation
+,Depreciation - Right-of-Use Assets,6822,Amortisation of the IFRS 16 right-of-use asset.,Expense,0.000,,false,,Active,NGN,Depreciation & Amortisation
+420484000000000409,Bank Charges & Maintenance Fees,6910,"Any bank fees levied is recorded into the bank fees and charges account. A bank account maintenance fee, transaction charges, a late payment fee are some examples.",Expense,0.000,,false,,Active,NGN,Finance Costs
+420484000000108041,Debit Interest,6911,Debit interest and overdraft interest.,Expense,0.000,,false,,Active,NGN,Finance Costs
+420484000000108045,Loan Interest Expense,6912,Interest or return on short-term working capital loans.,Expense,0.000,,false,,Active,NGN,Finance Costs
+420484000000000412,Payment Gateway Charges,6913,"Service fees for transactions , balance transfer fees, annual credit fees and other charges levied on a credit card are recorded into the credit card account.",Expense,0.000,,false,,Active,NGN,Finance Costs
+420484000000108053,VAT on Bank Charges,6914,VAT deducted by bank where not treated as recoverable input VAT.,Expense,0.000,,false,,Active,NGN,Finance Costs
+,Transfer Commission & Channel Charges,6915,Per-transfer commission charged by Access Bank / switching partners on outbound NIP and mobile transfers.,Expense,0.000,,false,,Active,NGN,Finance Costs
+,Electronic Money Transfer Levy (EMTL),6916,FGN Electronic Money Transfer Levy (N50 per qualifying electronic transfer) deducted by the bank.,Expense,0.000,,false,,Active,NGN,Finance Costs
+,Lease Interest - IFRS 16,6917,Unwinding of the discount on IFRS 16 lease liabilities.,Expense,0.000,,false,,Active,NGN,Finance Costs
+420484000000108061,Suspense - Unknown Payee,7010,Unknown payee expenses requiring review.,Expense,0.000,,false,,Active,NGN,Other Costs / Suspense
+420484000000108069,Contra / Reversal Account,7012,Reversal contra account for bank corrections.,Expense,0.000,,false,,Active,NGN,Other Costs / Suspense
+,Rounding / Posting Differences,7013,"Immaterial differences arising on bank statement rounding, kobo write-offs and journal balancing.",Expense,0.000,,false,,Active,NGN,Other Costs / Suspense
+420484000000000439,Bad Debt Expense,7021,Any amount which is lost and is unrecoverable is recorded into the bad debt account.,Expense,0.000,,false,,Active,NGN,Bad Debt / Impairment
+420484000000108081,Receivable Impairment / ECL,7022,Expected credit loss allowance on receivables.,Expense,0.000,,false,,Active,NGN,Bad Debt / Impairment
+,ECL - Related Party Receivables,7024,Expected credit loss allowance on amounts due from directors and related parties (IAS 24 / IFRS 9).,Expense,0.000,,false,,Active,NGN,Bad Debt / Impairment
+420484000000035005,Uncategorised Expense,7999,This account can be used to temporarily track expenses that are yet to be identified and classified into a particular category,Expense,0.000,,false,,Active,NGN,Other Costs / Suspense
+420484000000000376,VAT Output Payable,2041,The amount of VAT which you owe.,Other Current Liability,0.000,,false,,Active,NGN,VAT Control / Net VAT Payable
+420484000000107837,Design Software Subscription,6221,"AutoCAD, SketchUp, rendering and other design software subscriptions.",Expense,0.000,,false,,Active,NGN,Subscriptions & Software
+420484000000107841,Zoho Books / Cloud Software,6222,Zoho Books and other cloud accounting or productivity software costs.,Expense,0.000,,false,,Active,NGN,Subscriptions & Software
+420484000000107845,Website Hosting & Domain,6223,"Domain names, hosting and website maintenance subscriptions.",Expense,0.000,,false,,Active,NGN,Subscriptions & Software
+420484000000107849,IT Support & Maintenance,6224,"IT support, repairs and technical maintenance.",Expense,0.000,,false,,Active,NGN,Subscriptions & Software
+420484000000107925,Transport & Logistics,6510,General transport and logistics costs not directly allocated to projects.,Expense,0.000,,false,,Active,NGN,Transport & Travel
+420484000000107929,Local Travel,6511,Local travel and movement costs.,Expense,0.000,,false,,Active,NGN,Transport & Travel
+420484000000000424,Fuel & Vehicle Running,6512,"Transportation related expenses like fuel charges and maintenance charges for automobiles, are included to the automobile expense account.",Expense,0.000,,false,,Active,NGN,Transport & Travel
+420484000000032023,Hotel & Lodging,6514,Any expense related to putting up at motels etc while on business travel can be entered here.,Expense,0.000,,false,,Active,NGN,Transport & Travel
+,Air Travel & Flight Bookings,6515,Domestic and international flight bookings for staff and client-related travel.,Expense,0.000,,false,,Active,NGN,Transport & Travel
