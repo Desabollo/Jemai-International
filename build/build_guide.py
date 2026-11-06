@@ -207,7 +207,8 @@ table(["Item", "Detail"], [
                          "Jemai_International_Master_Workbook_2024-2025.xlsx (35 tabs, 1,226 bank transactions); "
                          "Jemai Int'nal 2024 AFS (signed 31-Oct-2026); Jemai Int'nal 2025 AFS (signed 31-Oct-2026)"],
     ["Companion deliverables", "01_Chart_of_Accounts_Improved_Jemai_Oct2026.xlsx (+ CSV import file)\n"
-                               "02_Jemai_Posting_Journal_Aug-Oct_2026.xlsx (+ CSV journal files)"],
+                               "02_Jemai_Posting_Journal_Aug-Oct_2026.xlsx (posting engine + 2025 worked example)\n"
+                               "02e-02i: the ACTUAL August-October 2026 journal (CSV upload files + workbook)"],
 ], widths=[3.4, 13.2], fontsize=9)
 
 callout("How to use this guide.",
@@ -1188,10 +1189,10 @@ h1("20. Risks, open items and assumptions")
 
 h2("20.1 Risks that could stop a clean go-live")
 table(["#", "Risk", "Impact", "Mitigation", "Owner"], [
-    ["R1", "The August-October 2026 bank statement was not in the repository; the 2026 journal cannot be populated "
-     "from evidence", "The posting journal is delivered as a configured engine plus a proven worked example, not as "
-     "populated 2026 entries", "Paste the statement into the register tab and the journal builds itself; or supply "
-     "the statement for completion", "MD"],
+    ["R1", "The August-October 2026 journal is built from bank evidence only - no accruals, depreciation, "
+     "revenue cut-off, payroll liabilities or tax provisions", "The period result in the ledger is a "
+     "cash-shaped proxy and will move once the closing entries are posted", "Post the month-end accrual pack "
+     "(section 18) before drawing any conclusion from the P&L", "Bookkeeper + MD"],
     ["R2", "VAT registration status and any historical exposure unresolved", "Registration changes every receipt and "
      "purchase posting; the exposure accrues monthly", "Decide D2 before the August 2026 journal is posted", "MD + "
      "tax adviser"],
@@ -1331,7 +1332,8 @@ table(["CSV column", "Zoho Books field", "Mandatory", "Note"], [
 
 h1("Appendix E - Documents to request from the client")
 for t in [
-    "The August-October 2026 Access Bank statement (CSV and PDF), to populate the 2026 posting journal.",
+    "The Access Bank statements for November 2026 onwards, to continue the posting journal already built for "
+    "August-October 2026 (deliverable 02e-02i).",
     "VAT registration certificate and any FIRS correspondence, or confirmation that registration has not been done.",
     "Signed contracts and invoices for all live projects (CIIFA SafeHouse, The Victoria King, Hassan Umar Abba, "
     "Joshua Abolade, Kehinde Adeshakin, Ibrahim Junaidu, Ekpunobi Judith, Amaowoh, Famakinwa, Auxit Media, Venture "

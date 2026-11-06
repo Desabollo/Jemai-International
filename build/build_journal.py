@@ -201,20 +201,22 @@ def build():
     body = [
         ("STATUS - READ THIS FIRST", ""),
         ("Data position",
-         "The repository contains Access Bank statements covering 31 May 2024 to 31 December 2025 (1,226 valued "
-         "transactions). It does NOT contain an August-October 2026 statement, and no 2026 transactions exist anywhere "
-         "in the files supplied. No 2026 posting can therefore be extracted from evidence - inventing 2026 bank "
-         "lines would put fabricated entries into a set of books."),
-        ("What has been delivered",
-         "(1) A complete, tested posting engine for the 1-Aug to 31-Oct 2026 statement: input register, rule table, "
-         "auto-generated balanced journals in Zoho import format, and control checks. "
-         "(2) A worked example that proves the engine: the most recent three-month statement on file "
-         "(Aug-Oct 2025, 112 lines) fully re-coded from the legacy 33-account chart into the improved 302-account chart, "
-         "producing a balanced journal you can import today."),
-        ("To finalise the 2026 journal",
-         "Paste the 01-Aug-2026 to 31-Oct-2026 statement into Txn_Register_2026 (columns are pre-wired), pick a Rule ID "
-         "per line from the drop-down, and Journal_Upload_2026 populates automatically. Export that tab to CSV and "
-         "import it into Zoho Books."),
+         "The repository now contains the Access Bank statement for 1 August - 31 October 2026 (26 pages, 716 "
+         "printed lines). The ACTUAL journal built from it is delivered separately as 02e-02i: 692 economic bank "
+         "lines, 1,384 journal legs, Dr = Cr = N125,599,480.97, receipts and payments agreeing exactly to the "
+         "statement totals."),
+        ("What this workbook is",
+         "The reusable ENGINE behind that journal: the rule table, the pre-wired input register, the formula-driven "
+         "upload sheet and the control checks. Keep using it for November 2026 onwards - paste the new statement "
+         "lines into Txn_Register_2026, pick a Rule ID per line, and Journal_Upload_2026 builds itself."),
+        ("What proves the engine",
+         "The 112 real Aug-Oct 2025 bank lines in Worked_Example_2025, re-coded from the legacy 33-account chart "
+         "into the improved 302-account chart, and the balanced journal they produce. Same engine, older data, "
+         "so you can see every rule behaving on real Nigerian bank narration."),
+        ("Where the real 2026 journal lives",
+         "02e_Journal_Aug-Oct_2026_ACTUAL_Zoho_Upload.csv (all three months), 02f / 02g / 02h (August, September, "
+         "October separately) and 02i_Posting_Journal_Aug-Oct_2026_ACTUAL_Workbook.xlsx (register, journal, trial "
+         "balance, exceptions, VAT review). Import 02e into Zoho Books."),
         ("", ""),
         ("THE TABS", ""),
         ("Parameters", "The switches the whole journal depends on: VAT registration status, VAT accounts, bank account, "
